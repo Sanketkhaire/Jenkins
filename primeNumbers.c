@@ -31,7 +31,7 @@ int main() {
 // user-defined function to check prime number
 int checkPrimeNumber(int n) {
   int j, flag = 1;
-
+  int temp = 0;
   for (j = 2; j <= n / 2; ++j) {
 
     if (n % j == 0) {
