@@ -3,7 +3,7 @@ int checkPrimeNumber(int n);
 int main() {
 
   int n1, n2, i, flag;
-
+  char a,b;
   printf("Enter two positive integers: ");
   scanf("%d %d", &n1, &n2);
 
