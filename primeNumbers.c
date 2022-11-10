@@ -14,7 +14,7 @@ int main() {
     n1 = n1 - n2;
   }
 
-  printf("Prime numbers between %d and %d are: ", n1, n2);
+  printf("Prime numbers between %d and %d are given as follows : ", n1, n2);
   for (i = n1 + 1; i < n2; ++i) {
 
     // flag will be equal to 1 if i is prime
