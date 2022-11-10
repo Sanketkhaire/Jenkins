@@ -1,2 +1,2 @@
 primeNumbers: primeNumbers.c
-  gcc primeNumbers.c -o primeNumbers
+	gcc primeNumbers.c -o primeNumbers
